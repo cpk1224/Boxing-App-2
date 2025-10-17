@@ -1,0 +1,5 @@
+{
+  "name": "Fight Me: AI Boxing Coach",
+  "description": "An intelligent boxing training application that uses AI to generate dynamic workout routines. Configure your rounds, intensity, and combo complexity, then let the AI coach guide you through a challenging session with real-time audio callouts.",
+  "requestFramePermissions": []
+}
